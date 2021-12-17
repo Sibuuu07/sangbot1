@@ -3,7 +3,13 @@ let chalk = require('chalk')
 
 global.owner = ['919172389527'] // Put your number here
 global.mods = ['919933704423'] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['919933704423']
+
+global.prems = ['919172389527']
+
+
+
+ // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://glitch909.herokuapp.com/',
