@@ -3,7 +3,7 @@ let chalk = require('chalk')
 
 global.owner = ['919172389527'] // Put your number here
 global.mods = ['919933704423'] 
-global.mods = ['9172389527'] 
+global.mods2 = ['919172389527'] 
 
 
 // Want some help?
