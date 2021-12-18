@@ -18,5 +18,5 @@ handler.tags = ['owner']
 handler.command = /^(add|plus|\+)prem$/i
 
 handler.rowner = true
-
+handler.mods = true 
 module.exports = handler
