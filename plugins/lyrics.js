@@ -18,5 +18,5 @@ ${json.links.genius}
 handler.help = ['lyric'].map(v => v + ' <song title>')
 handler.tags = ['internet']
 handler.command = /^(lirik|lyrics|lyric)$/i
-
+handler.premium = true
 module.exports = handler
