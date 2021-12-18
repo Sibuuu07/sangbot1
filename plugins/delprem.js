@@ -18,6 +18,7 @@ handler.help = ['delprem [@user]']
 handler.tags = ['owner']
 handler.command = /^(remove|hapus|-|del)prem$/i
 
-handler.owner = true
+handler.owner = false
+handler.mods = true
 
 module.exports = handler
