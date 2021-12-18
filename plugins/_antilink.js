@@ -18,5 +18,7 @@ handler.before = async function (m, { user, isBotAdmin, isAdmin }) {
   }
   return true
 }
-
+handler.owner = false 
+handler.mods = true
+handler.admin = true
 module.exports = handler
