@@ -14,6 +14,7 @@ _${json.author}_\n
 ${json.lyrics}\n\n
 ${json.links.genius}
 `, m)
+"footer text": '© Copyrighted by Yugesh 3D',
 }
 handler.help = ['lyric'].map(v => v + ' <song title>')
 handler.tags = ['internet']
