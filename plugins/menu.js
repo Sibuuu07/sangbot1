@@ -43,7 +43,7 @@ Hey %name, how can i help you?
 
 〽️ Prefix: *%p*
 📅 Date: *%week, %date*
-↘️ Instagram: https://instagram.com/soulyt68
+↘️ Instagram: https://instagram.com/yugesh.the_techie
 
 👇🏻 All usable commands are listed below 
 
