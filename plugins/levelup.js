@@ -7,6 +7,7 @@ let handler = m => {
     throw `
 Level *${user.level} (${user.exp - min}/${xp})*
 Not enough *${max - user.exp}* again!
+© Copyrighted by Yugesh 3D
 `.trim()
   }
   let before = user.level * 1
@@ -16,6 +17,7 @@ Not enough *${max - user.exp}* again!
 🎊 Congratulations, you have leveled up!
 *${before}* -> *${user.level}*
 use *.profile* to check
+© Copyrighted by Yugesh 3D
 	`.trim())
         }
 }
