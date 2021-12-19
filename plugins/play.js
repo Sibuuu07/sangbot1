@@ -29,6 +29,8 @@ let handler = async (m, { conn, command, text, isPrems, isOwner }) => {
 *Filesize:* ${filesizeF}
 *Source:* ${vid.url}
  ${isLimit ? 'Used ': ''}
+Media File Not Be send
+© Copyrighted by Yugesh 3D
 `.trim(), m)
 let _thumb = {}
 try { if (isVideo) _thumb = { thumbnail: await (await fetch(thumb)).buffer() } }
