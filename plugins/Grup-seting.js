@@ -11,6 +11,7 @@ let handler  = async (m, { conn, args, usedPrefix, command }) => {
 
   *○ ${usedPrefix + command} close*
   *○ ${usedPrefix + command} open*
+© Copyrighted by Yugesh 3D
 `.trim()
 	await conn.groupSettingChange(m.chat, GroupSettingChange.messageSend, isClose)
 }
