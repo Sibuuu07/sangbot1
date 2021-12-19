@@ -11,7 +11,7 @@ let handler = async m => m.reply(`
 ┊Contact on WhatsApp          
 ┊Call = Block       
 ┊Hate/Rushed = Block              
-┊Instagram: https://instagram.com/soulyt68            
+┊Instagram: https://instagram.com/yugesh.the_techie   
 ┊YouTube: Y8 SouL                
 ┊Studying in 9th     
 ┊Bio of Yugesh.  
