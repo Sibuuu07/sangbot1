@@ -17,6 +17,7 @@ example:
 ├ raccoon
 ├ kangaroo
 └────
+© Copyrighted by Yugesh 3D
 `.trim();
   let res = await fetch(
     API("https://some-random-api.ml", "/animal/" + text, {})
