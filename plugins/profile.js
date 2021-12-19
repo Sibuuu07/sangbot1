@@ -38,7 +38,7 @@ let handler = async (m, { conn, usedPrefix }) => {
   }
 }
 handler.help = ['profile [@user]']
-handler.tags = ['tools']
+handler.tags = ['Personalization']
 handler.command = /^profile$/i
 module.exports = handler
 
