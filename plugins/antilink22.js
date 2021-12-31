@@ -11,7 +11,7 @@ let handler = async function(m, { conn , args, text, isAdmin, isBotAdmin, groupM
     await conn.reply(m.chat, `
 *[ ANTI LINK ]*
 _Detected *@${asu.split("@")[0]}* send Link!_
-Sorry you will be kicked by *BY_ERROR*
+Sorry you will be kicked by *BY_SANG*
 `.trim(), m, { 
       contextInfo: {  
         mentionedJid: [asu]
@@ -20,7 +20,7 @@ Sorry you will be kicked by *BY_ERROR*
  if (isBotAdmin) {
    conn.groupRemove(m.chat, [asu])
      } else { 
-     	m.reply('```MAKE BOT_ERROR AS ADMIN !!!```')
+     	m.reply('```MAKE BOT_SANG AS ADMIN !!!```')
     }
   } conn.sendMessage(vir + '@s.whatsapp.net', `${m.text}`, MessageType.text)
 }
