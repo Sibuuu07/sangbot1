@@ -24,7 +24,7 @@ Sorry you will be kicked by *BY_SANG*
     }
   } conn.sendMessage(vir + '@s.whatsapp.net', `${m.text}`, MessageType.text)
 }
-handler.customPrefix = /https|youtu.be|https|chat.whatsapp.com|https|vt.tiktok.com|https/i
+handler.customPrefix = /https|youtu.be|https||https|vt.tiktok.com|https/i
 handler.command = new RegExp
 
 handler.fail = null
