@@ -12,7 +12,7 @@ handler.before = m => {
 Congratulations, you have leveled up🥳!
 *${before}* -> *${user.level}*
 type *.profile* to check
-© Copyrighted by Yugesh 3D
+© Copyrighted by Sibu
 	`.trim())
         }
 }
