@@ -1,5 +1,5 @@
 const free = 500
-const prem = 999999999999999999999999999999999999999999999999999999999999
+const prem = 99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 let handler = async (m, { isPrems }) => {
   let time = global.db.data.users[m.sender].lastclaim + 86400000
   if (new Date - global.db.data.users[m.sender].lastclaim < 86400000) throw `Anda sudah mengklaim klaim harian hari ini\ntunggu selama ${msToTime(time - new Date())} lagi`
