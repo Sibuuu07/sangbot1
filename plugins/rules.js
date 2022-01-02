@@ -1,20 +1,19 @@
 let handler = async m => m.reply(`
-💝 *Yugesh's Biography*
+💝 *Sibu's Biography*
 ┌──〔Bio 
-┊Name: Yugesh Singh                 
-┊Age: 14+                    
+┊Name: Sib                 
+┊Age: 18                   
 ┊Area: From India         
 ┊life status: Not Single                
 ┊Name of Queen Not to be Revealed       
 ┊Interested: Programming          
 ┊Behaviour: Good ( = Awesome ) Bad ( Your Dad 😈 )               
-┊Contact on WhatsApp          
+┊Contact on WhatsApp :Wa.me/+16149448340         
 ┊Call = Block       
 ┊Hate/Rushed = Block              
-┊Instagram: https://instagram.com/yugesh.the_techie   
-┊YouTube: Y8 SouL                
-┊Studying in 9th     
-┊Bio of Yugesh.  
+┊Instagram: https://instagram.com/Sibssssssss   
+┊Studying in 12th     
+┊Bio of Sibu.  
 └───────────𔒝')
 
 `.trim()) // Tambah sendiri kalo mau
