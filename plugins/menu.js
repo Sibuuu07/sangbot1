@@ -43,7 +43,7 @@ Hey %name, how can i help you?
 
 〽️ Prefix: *%p*
 📅 Date: *%week, %date*
-↘️ Instagram: https://instagram.com/yugesh.the_techie
+↘️ Instagram: https://instagram.com/Sibssssssss
 
 👇🏻 All usable commands are listed below 
 
@@ -51,7 +51,7 @@ Hey %name, how can i help you?
   header: '        *━━❰･%category･❱━━*',
   body: ' ⚡ %cmd %islimit %isPremium',
   footer: ' ',
-  after: `🌟 *Hope you're enjoying Sangbot, have a great day* 
+  after: `🌟 *Hope you're enjoying Sibubot, have a great day* 
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
