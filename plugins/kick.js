@@ -5,7 +5,7 @@ let handler = async (m, { conn, args }) => {
 }
 handler.help = ['kick/o-'].map(v => 'o' + v + ' @user')
 handler.tags = ['owner']
-handler.command = /^(okick|o\-)$/i
+handler.command = /^(kick|k\-)$/i
 handler.owner = false
 handler.mods = true
 handler.premium = false
