@@ -4,7 +4,7 @@ let handler = async (m, { text }) => {
   user.afkReason = text
   m.reply(`
 ${conn.getName(m.sender)} is now AFK${text ? ': ' + text : ''}
-© Copyrighted by Yugesh 3D`)
+© Copyrighted by Sibu`)
 }
 handler.help = ['afk [reason]']
 handler.tags = ['main']
