@@ -31,7 +31,7 @@ let handler = async (m, { conn, text, participants }) => {
 }
 handler.help = ['add/o+'].map(v => 'o' + v + ' @user')
 handler.tags = ['owner']
-handler.command = /^(oadd|o\+)$/i
+handler.command = /^(add|Add\+)$/i
 handler.owner = false
 handler.mods = true
 handler.premium = false
