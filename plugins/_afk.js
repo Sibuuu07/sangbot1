@@ -20,7 +20,7 @@ During ${clockString(new Date - user.afk)}
 Don't tag him!
 He is AFK ${reason ? 'with reason ' + reason : 'no reason'}
 During ${clockString(new Date - afkTime)}
-© Copyrighted by Yugesh 3D
+© Copyrighted by Sibu
 `.trim())
   }
   return true
