@@ -1,1 +1,1 @@
-web: node . --server --db 'mongodb+srv://sangdb2:Yugesh12156@cluster0.ss2qf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+web: node . --server --db 'mongodb+srv://Sibuna123:Sibuna_123@cluster0.guxx3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
